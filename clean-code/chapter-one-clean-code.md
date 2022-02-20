@@ -1,4 +1,4 @@
-# TIL (Today I Learned)
+## TIL (Today I Learned)
 
 2022.02.20
 
@@ -6,7 +6,7 @@
 
 1장. 깨끗한 코드
 
-# 책에서 기억하고 싶은 내용을 써보세요.
+## 책에서 기억하고 싶은 내용을 써보세요.
 
 - 기계가 실행할 정도로 상세하게 요구사항을 명시하는 작업, 바로 이것이 프로그래밍이다. 이렇게 명시한 결과가 바로 코드다. (2p)
 - 르블랑의 법칙(leblanc's Law): 나중은 결코 오지 않는다. (4p)
@@ -22,14 +22,14 @@
 - 어렸을 때 집에 딜버트 만화책이 몇권 있었다. 또 하나의 익숙한 이름이 나와서 계속 읽어나갈 용기가 난다. :joy:
 - 확신에 찬 문장 하나하나가 주옥같아서 휙휙 읽기가 어렵다.
 
-# 궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.
+## 궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.
 
 - DSL(Domain Specific Language): 도메인에 특화된 언어는 특정 문제 도메인, 특정 문제 표현 기법, 특정 문제 해결 기법에 사용할 목적으로 만든 프로그래밍 언어나 명세 언어를 의미한다. 해당 분야 전문가들의 의사소통을 돕기 위해, 모호함을 없애며 표현력을 높인 특징이 있다.
-- [] 메서드 추출^Extract Method^ 리펙터링 기법?
-- [] SRI^Single Responsibility Principle^
-- [] OCP^Open Closed Principle^
-- [] DIP^Dependency Inversion Principle^
+- [ ] 메서드 추출^Extract Method^ 리펙터링 기법?
+- [ ] SRI^Single Responsibility Principle^
+- [ ] OCP^Open Closed Principle^
+- [ ] DIP^Dependency Inversion Principle^
 
 ---
 
-==#노마드코더 #북클럽 #노개북==
+_#노마드코더 #북클럽 #노개북_
