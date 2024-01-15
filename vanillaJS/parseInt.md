@@ -9,7 +9,7 @@
 ## Things I Learned
 
 - `parseInt("30")` returns 30
-- `parseInt("hello)` returns NaN
+- `parseInt("hello")` returns NaN
 - NaN means Not a Number
 
 ## Practice
